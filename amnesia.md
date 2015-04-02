@@ -8,3 +8,5 @@ Then I open my mac and log on to udacity :)
 [Sit back down, to get no sleep?](../sleep/marshmallow.md)
 
 Amnesia can be freaking awesome sometimes :)
+
+I eat marshmallows all the time and they don't have this effect on me.  Maybe these are 'organic' marshmallows.
